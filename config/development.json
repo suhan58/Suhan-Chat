@@ -1,0 +1,7 @@
+{
+    "name": "Dash App - Developement",
+    "SUPABASE_KEY" : "",
+    "mail" : {
+        "host": "Dev-mail-server"
+    }
+}

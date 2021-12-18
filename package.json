@@ -1,0 +1,24 @@
+{
+  "name": "project-dash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "@supabase/supabase-js": "^1.22.5",
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "http-error": "0.0.6",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

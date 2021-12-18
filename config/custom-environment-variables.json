@@ -1,0 +1,7 @@
+{
+    "PORT": "8080",
+    "SUPABASE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlhdCI6MTYzMTE5OTgxNywiZXhwIjoxOTQ2Nzc1ODE3fQ.B9V5PCDRBzOVtiTnwryZoJBtXAzyWhpoB88JfhTdn-M",
+    "mail" : {
+    "password": "app_password"
+}
+}
