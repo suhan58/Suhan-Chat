@@ -11,7 +11,7 @@ app.use(helmet());
 
 if (app.get("env") === "development") {
   app.use(morgan("tiny"));
-  // console.log("Morgan enabled...");
+  console.log("Morgan enabled...");
 }
 app.use("/auth", auth);
 
